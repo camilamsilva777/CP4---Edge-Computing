@@ -21,7 +21,11 @@ Os dados são enviados por **ThingSpeak**.
 
 🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))  
 
-🔗 [Vídeo do Youtube]([(https://thingspeak.mathworks.com/channels/3058720)](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR))  
+🔗 [Vídeo do Youtube]([(https://thingspeak.mathworks.com/channels/3058720)](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR)) 
+
+![Imagem do protótipo no mundo real](https://github.com/user-attachments/assets/c66c153d-722f-45b1-adea-3d51915893d1)
+
+
 
 
 ### 🔌 Hardware virtual
