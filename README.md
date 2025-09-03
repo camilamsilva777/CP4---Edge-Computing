@@ -21,6 +21,9 @@ Os dados são enviados por **ThingSpeak**.
 
 🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))  
 
+🔗 [Vídeo do Youtube]([(https://thingspeak.mathworks.com/channels/3058720)](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR))  
+
+
 ### 🔌 Hardware virtual
 - ESP32 DOIT DEVKIT V1  
 - Sensor **DHT22** (temperatura e umidade)  
