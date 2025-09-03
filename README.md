@@ -21,7 +21,7 @@ Os dados são enviados por **ThingSpeak**.
 
 🔗 [Link Wokwi]([https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
 
-🔗 [Thingspeak Channel]([[https://wokwi.com/](https://wokwi.com/projects/441077412366481409)](https://thingspeak.mathworks.com/channels/3058686))  
+🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))  
 
 ### 🔌 Hardware virtual
 - ESP32 DOIT DEVKIT V1  
