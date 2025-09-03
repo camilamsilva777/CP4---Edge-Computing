@@ -20,11 +20,11 @@ Os dados são enviados por **ThingSpeak**.
 # Código ino
 🔗 [CheckPoint1_Arduino.zip](https://github.com/user-attachments/files/22128360/CheckPoint1_Arduino.zip)
 
-🔗 [Link Wokwi]([https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
+🔗 [Link Wokwi](https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
 
-🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))  
+🔗 [Thingspeak Channel](https://thingspeak.mathworks.com/channels/3058720)  
 
-🔗 [Vídeo do Youtube]([(https://thingspeak.mathworks.com/channels/3058720)](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR)) 
+🔗 [Vídeo do Youtube](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR) 
 
 #Imagem do Protótipo no mundo real
 
