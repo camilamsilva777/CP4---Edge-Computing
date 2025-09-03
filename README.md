@@ -1,11 +1,9 @@
 # 📘 Monitoramento de Temperatura e Luminosidade - ESP32
 
 # 🚀Integrantes:
-🔹 Camila de Mendonça da Silva - RM565491
+🔹Camila de Mendonça da Silva - RM565491
 🔹Diego Zandonadi - RM561488
 🔹Davi Alves - RM566279
-🔹Gustavo Joda - RM561939
-🔹Luis Miguel Gonçalves - RM561232
 
 ## 🔹 Visão Geral
 Este projeto é uma **prova de conceito (PoC)** que monitora **temperatura e luminosidade** utilizando um **ESP32 DOIT DEVKIT V1**.  
