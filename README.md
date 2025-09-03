@@ -17,11 +17,16 @@ Os dados são enviados por **ThingSpeak**.
 
 ## 🚀 Parte 1 – Simulação no Wokwi (DHT22 + LDR)
 
+# Código ino
+🔗 [CheckPoint1_Arduino.zip](https://github.com/user-attachments/files/22128360/CheckPoint1_Arduino.zip)
+
 🔗 [Link Wokwi]([https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
 
 🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))  
 
 🔗 [Vídeo do Youtube]([(https://thingspeak.mathworks.com/channels/3058720)](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR)) 
+
+#Imagem do Protótipo no mundo real
 
 ![Imagem do protótipo no mundo real](https://github.com/user-attachments/assets/c66c153d-722f-45b1-adea-3d51915893d1)
 
